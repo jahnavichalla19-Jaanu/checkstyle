@@ -2,12 +2,8 @@
 <module name="Checker">
   <module name="TreeWalker">
     <module name="NoWhitespaceBefore">
-       <property name="allowLineBreaks" 
-                 value="false"/>
-       <property name="tokens" 
-                value="POST_INC, POST_DEC,
-                       ELLIPSIS, LABELED_STAT"/>
-     
+      <property name="tokens" value="METHOD_REF, DOT"/>
+      <property name="allowLineBreaks" value="true"/>
     </module>
   </module>
 </module>

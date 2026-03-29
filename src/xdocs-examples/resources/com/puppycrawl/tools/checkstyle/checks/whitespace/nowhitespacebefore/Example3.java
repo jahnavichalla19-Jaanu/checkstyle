@@ -2,10 +2,7 @@
 <module name="Checker">
   <module name="TreeWalker">
     <module name="NoWhitespaceBefore">
-      <property name="allowLineBreaks" 
-                value="false"/>
-      <property name="tokens" 
-                value="COMMA, SEMI"/>
+      <property name="tokens" value="METHOD_REF, DOT"/>
     </module>
   </module>
 </module>
