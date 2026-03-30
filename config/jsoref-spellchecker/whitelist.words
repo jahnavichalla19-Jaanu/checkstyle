@@ -25,7 +25,6 @@ alot
 alundblad
 amazonaws
 amd
-amitkumardeoghoria
 androidx
 annotationlocation
 annotationonsameline
@@ -867,6 +866,7 @@ multiplevariabledeclarations
 Multiset
 multithreading
 mutableexception
+mutationtest
 MVC
 mvn
 mvnrepository
